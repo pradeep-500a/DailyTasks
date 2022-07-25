@@ -1,0 +1,20 @@
+## Amazon Web Service(AWS)
+
+## Instance : 
+Virtual server for running applications on amazon EC2
+
+## EC2(Elastic Compute):
+ EC2 is a web service which provides resizable 
+  - Insance launch, creating instances, key pairs, security groups
+
+## EC2 insrance creation:
+   Requirement gathering
+   key pairs
+   security group
+   instance launch
+
+## EBS(Elastic Block Storage): 
+  - virtual hard disk
+  - volume, the virtual hasrd disk
+  - snapshot - backup & restore
+

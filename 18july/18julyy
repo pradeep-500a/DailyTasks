@@ -1,0 +1,14 @@
+# Installing nginx
+sudo apy update
+sudo install nginx
+#status checking
+systemctl status nginx
+# Configuration of nginx
+cd /etc/nginx
+ls -l
+nano ngnix.conf
+# Restart and reload of nginx
+systemctl restart ngnix
+systemctl reload nginx
+# Index of nginx
+curl status
