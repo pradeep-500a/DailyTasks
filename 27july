@@ -1,0 +1,18 @@
+## Amazon Web Services(AWS)
+
+## laas (Infrsstructure as a service)
+## Paas(platform as a service)
+## Saas (software as a service)
+
+## Security Group : Every EC2 instance will have a mandatory firewall, which controls traffic
+
+## Instance Type
+## General
+## compute
+## memory
+## storage
+## GPU
+
+## VPC (virtual private  cloud)
+## NAT Gateway
+## EC2 Logs
