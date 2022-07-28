@@ -1,0 +1,24 @@
+## Virtual Private Cloud(PVC)
+--> VPC is a virtual network dedicated to AWS account
+--> Subnet is a range of IP address in VPC
+--> Routes are used to determine where network traffic is directed
+--> Internet Gateway allows communication between instance in VPC and internet
+
+## Simple Storage Service(S3)
+--> Simple web services interface use to store and retrieve any data, at any time, anywhere on the web
+--> Buckets (containers hold the object)
+--> Objects (file that store in container)
+using terminal
+- aws configure
+# to list the bucket
+- aws s3 ls
+# to create bucket
+- aws s3 mb s3://bucketname
+# to list bject in bucket
+- aws s3 ls bucketname
+# to copy file to local storage
+- aws s3 cp bucket name local path
+# to remove a file in bucket
+- aws s3 rm bucketname/filename
+# to remove bucket
+- aws s3 rb bucketname
