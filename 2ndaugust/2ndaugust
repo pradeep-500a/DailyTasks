@@ -1,0 +1,24 @@
+
+
+## Load Balancers in AWS
+
+--> Accepts incoming trafiis from client
+--> Routes requests to its EC2 instances in one or more zones
+--> Application Load Balancers
+--> Network Load Balancers
+--> Classic Load Balancers
+ 
+--> Improves application availabiliy and responsiveness
+--> Prevent server overload
+
+## Github Actions
+
+-->Platfrom to automate developer workflows 
+
+--> Yaml files
+
+## Autoscalling 
+
+--> Scales up or down automatically 
+--> Horizontal
+--> vertical
