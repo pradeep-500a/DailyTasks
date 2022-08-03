@@ -1,0 +1,23 @@
+
+## RDS (Relational Database Service)
+--> A database structure to recognize relations between stored items of information
+--  Two types of backups
+--> Automated Backups
+--> DB Snapshots
+ 
+ ## Elastic Container Service (ECS)
+ --> Highly scalable, fast , container management Service
+ --> Easy to run, stop and manage Docker containers on a cluster
+ --> Cluster on a serverless infrastructure
+## Architecture of Amazom ECS
+--> Container Image:
+--> Container registry(ECR)
+--> Amazon ECS
+
+-->Task are launched using the Fargate
+  task has 2 components:
+  ECS container instance
+  container agent
+
+--> Cluster is set of ECS container
+--> handles scheduling, monitoring and scaling requests
